@@ -1,4 +1,4 @@
-# Lab Angular - Frontend Application
+# Lab Laravel - Backend Application
 
 ## **Información del Proyecto**
 - **Desarrollado por:** Fabio Melgarejo Cardozo
